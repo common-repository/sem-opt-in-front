@@ -1,0 +1,44 @@
+# Copyright (C) 2014 Opt-in Front Page
+# This file is distributed under the same license as the Opt-in Front Page package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Opt-in Front Page 4.3 dev\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/sem-opt-in-front\n"
+"POT-Creation-Date: 2014-04-22 15:38:57+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  sem-opt-in-front.pot (Opt-in Front Page 4.3 dev)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: sem-opt-in-front-info.php:2
+msgid "Opt-in Front Page"
+msgstr ""
+
+#. #-#-#-#-#  sem-opt-in-front.pot (Opt-in Front Page 4.3 dev)  #-#-#-#-#
+#. Description of the plugin/theme
+#: sem-opt-in-front-info.php:3
+msgid ""
+"Restricts the access to your front page on an opt-in basis: Only posts "
+"within the category with a slug of 'blog' or 'news' will be displayed on "
+"your front page."
+msgstr ""
+
+#: sem-opt-in-front.php:318
+msgid "News"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.semiologic.com/software/opt-in-front/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Denis de Bernardy & Mike Koepke"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.getsemiologic.com"
+msgstr ""
